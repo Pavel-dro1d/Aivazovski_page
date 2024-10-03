@@ -27,3 +27,10 @@ margin: 0;
     max-width: 970px;
     padding: 0 10px;
 }
+.devider {
+    height: 1px; 
+    width: min(420px, 100%);
+    background-color: var(--color-main-black);
+    border: none;
+    margin: 0 auto;
+}
