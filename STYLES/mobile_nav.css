@@ -8,7 +8,11 @@
 .mobile-navigation-burger {
 width: 33px;
 height: 18px;
+top: 55px;
+right: 30px;
 cursor: pointer;
+position: fixed;
+
 }
 
 .mobile-navigation-toggler {
